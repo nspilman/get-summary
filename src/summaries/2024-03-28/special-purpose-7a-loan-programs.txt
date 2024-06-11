@@ -1,0 +1,13 @@
+The article provides detailed information on the 7(a) loan program offered by the Small Business Administration (SBA). It outlines several variations of the basic 7(a) loan designed to address specific financing needs for different types of small businesses and give lenders more flexibility in loan structure. Key points include:
+
+- **SBAExpress:** This is a flexible, smaller loan option up to $350,000, which can be provided by designated lenders using their own processing procedures. It can be structured as a term loan with the same proceeds and maturity as a standard 7(a) loan or as a revolving line of credit with lender-discretionary repayment terms and a maximum seven-year maturity.
+  
+- **CAPLines:** The CAPLines program offers up to $5 million for businesses to meet short-term and cyclical capital needs. It supports various needs such as financing seasonal working capital, costs of performing contracts, commercial and residential construction, or providing general working capital lines of credit. The maturity terms vary based on the specific CAPLine program, ranging from three to ten years.
+
+Under the CAPLines umbrella, four distinct short-term loan programs are highlighted:
+1. **Contract Loan Program** for financing contract-related costs, with disbursement prior to work commencement and non-revolving if for a single contract but potentially revolving for multiple contracts, up to ten years.
+2. **Seasonal Line of Credit Program** to support seasonal inventory buildup, requiring a business to have a definite seasonal pattern and 12 months of operation.
+3. **Builders Line Program** for financing small contractor or developer projects in residential or commercial property construction or rehabilitation.
+4. **Working Capital Line Program** offering a revolving line of credit up to $5 million for businesses providing customer credit or holding inventory as their principal asset.
+
+Each loan variation under the 7(a) program and CAPLines is designed with specific use cases in mind, offering flexibility and support suited to different business needs and scenarios.
